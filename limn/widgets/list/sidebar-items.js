@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["default_text_adapter",""]],"struct":[["ItemSelected",""],["List",""],["ListHandler",""],["ListItemHandler",""],["ListItemSelected",""],["ListStyle",""]]});
